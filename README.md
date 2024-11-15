@@ -1,4 +1,4 @@
-# birobazaar
+# BiroBazaar
 BrioBazaar - E-commerce Management System
 # Objective:
 BrioBazaar is an all-in-one e-commerce platform designed to help admins, sellers, and
